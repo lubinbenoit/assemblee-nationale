@@ -1,0 +1,45 @@
+{
+  "genere_le": "2026-11-10T11:47:23",
+  "periode_couverte": {
+    "premier_scrutin": "2024-10-14",
+    "dernier_scrutin": "2026-10-19"
+  },
+  "nb_scrutins_charges": 8894,
+  "nb_scrutins_retenus": 8245,
+  "nb_deputes": 649,
+  "nb_deputes_hors_referentiel": 74,
+  "nb_deputes_changeant_groupe": 477,
+  "parametres": {
+    "date_min": null,
+    "date_max": null,
+    "types": null,
+    "sans_abstentions": false,
+    "sans_delegation": false,
+    "min_minorite": 0.1,
+    "min_commun": 30,
+    "min_accord": 0.5,
+    "poids": "taux",
+    "puissance": 1.0,
+    "periode": "trimestre",
+    "formats": [
+      "csv",
+      "gexf"
+    ],
+    "garder_isoles": false,
+    "sans_evolution": false,
+    "min_commun_periode": 10,
+    "part_groupe_min": 0.8,
+    "betweenness": 0,
+    "communautes_gephi": null,
+    "seed": 42,
+    "seuils": [
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ]
+  },
+  "modularite_groupes": 0.1615964972496954,
+  "nb_liens": 100650
+}
