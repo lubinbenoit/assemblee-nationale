@@ -1,5 +1,5 @@
 {
-  "genere_le": "2026-11-14T13:45:35",
+  "genere_le": "2026-11-21T14:32:05",
   "periode_couverte": {
     "premier_scrutin": "2022-07-11",
     "dernier_scrutin": "2026-10-19"
@@ -20,7 +20,7 @@
     "sans_abstentions": false,
     "sans_delegation": false,
     "min_minorite": 0,
-    "min_commun": 0.1,
+    "min_commun": 30,
     "min_accord": 0,
     "poids": "taux",
     "puissance": 1.0,
@@ -45,6 +45,6 @@
       0.9
     ]
   },
-  "modularite_groupes": 0.08079423184723501,
-  "nb_liens": 300229
+  "modularite_groupes": 0.08238546564598899,
+  "nb_liens": 286726
 }
